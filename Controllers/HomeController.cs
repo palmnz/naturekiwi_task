@@ -22,6 +22,7 @@ namespace cosmosDbMVCToDo.Controllers
             return View();
         }
 
+        //this function is paired by Views/Home/Privacy
         public IActionResult Privacy()
         {
             return View();
