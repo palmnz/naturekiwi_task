@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cosmosDbMVCToDo", "cosmosDbMVCToDo.csproj", "{A10CCA51-33E0-49E8-BE49-11ABA45AA84C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A10CCA51-33E0-49E8-BE49-11ABA45AA84C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A10CCA51-33E0-49E8-BE49-11ABA45AA84C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A10CCA51-33E0-49E8-BE49-11ABA45AA84C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A10CCA51-33E0-49E8-BE49-11ABA45AA84C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20AB8C53-B86A-4416-89DC-D7D155511C2E}
+	EndGlobalSection
+EndGlobal
