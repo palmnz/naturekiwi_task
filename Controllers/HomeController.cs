@@ -16,7 +16,7 @@ namespace cosmosDbMVCToDo.Controllers
         {
             _logger = logger;
         }
-
+        //this function is paired by Views/Home/Index
         public IActionResult Index()
         {
             return View();
